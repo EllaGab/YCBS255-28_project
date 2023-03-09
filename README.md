@@ -10,7 +10,7 @@ In this project, I use a data of a single participant collected by me and my col
 
 The dataset and the code can be downloaded from [here](https://github.com/EllaGab/YCBS255-28_project.git).
 
-The goal of this project is two-phold:
+The goal of this project is two-fold:
 1. To build a classifier to predict the coupling of spindles with the slow waves based on their characteristics such as frequency, amplitude, sleep stage, etc.
 2. To explore a possibility to predict the source of the spindle (i.e., the EEG channel) based on spindles characteristics
 
